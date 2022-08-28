@@ -1,5 +1,5 @@
 # DATA9003-Research-Project
-Jupyter notebooks and code files written as part of my third semester research project for MTU's MSc Data Science & Analytics Programme
+Jupyter notebooks and code files written as part of my third semester research project for MTU's MSc Data Science & Analytics Programme. It is important to note that this collection is purely archival. Due to the omission of certain large data files the code is not executable.
 
 ### Project Title
 The Impact of Crime Hot-Spots on House Prices
